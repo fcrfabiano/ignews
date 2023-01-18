@@ -20,9 +20,9 @@ Como próximo passo eu vou fazer o deploy da aplicação.
  7. Web Hooks
 
 ## Imagens
-![enter image description here](https://github.com/fcrfabiano/ig.news/blob/main/ignews1.png)
-![enter image description here](https://github.com/fcrfabiano/ig.news/blob/main/ignews2.png)
-![enter image description here](https://github.com/fcrfabiano/ig.news/blob/main/ignews3.png)
-![enter image description here](https://github.com/fcrfabiano/ig.news/blob/main/ignews4.png)
-![enter image description here](https://github.com/fcrfabiano/ig.news/blob/main/ignews5.png)
+![enter image description here](https://github.com/fcrfabiano/ignews/blob/main/ignews1.png)
+![enter image description here](https://github.com/fcrfabiano/ignews/blob/main/ignews2.png)
+![enter image description here](https://github.com/fcrfabiano/ignews/blob/main/ignews3.png)
+![enter image description here](https://github.com/fcrfabiano/ignews/blob/main/ignews4.png)
+![enter image description here](https://github.com/fcrfabiano/ignews/blob/main/ignews5.png)
 
